@@ -1,0 +1,92 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Cabeçalho ================ */
+
+/** Cabeçalho >> .uagb-section__inner-wrap h2 **/
+.uagb-section__inner-wrap h2 {
+	font-family: poppins extrali, sans-serif !important;
+	font-weight: 100 !important;
+}
+
+/** Cabeçalho >> .uagb-section__inner-wrap h3 **/
+.uagb-section__inner-wrap h3 {
+	font-family: poppins medium, sans-serif !important;
+	font-weight: 200 !important;
+}
+
+/** Cabeçalho >> .uagb-section__background-undefined p **/
+.uagb-section__background-undefined p {
+	font-family: poppins light, sans-serif !important;
+	color: rgb(99, 97, 97) !important;
+	font-weight: 600 !important;
+}
+
+/** Cabeçalho >> .wp-block-column > .has-text-color:nth-of-type(2) **/
+.wp-block-column > .has-text-color:nth-of-type(2) {
+	margin-top: -45px !important;
+}
+
+/** Cabeçalho >> .lae-entry-text-wrap **/
+.lae-entry-text-wrap {
+	background-color: rgb(28, 34, 37) !important;
+	height: 90px !important;
+}
+
+/** Cabeçalho >> .wp-block-column > .has-text-color:nth-of-type(1) **/
+.wp-block-column > .has-text-color:nth-of-type(1) {
+	
+}
+
+/** Cabeçalho >> .entry h3 **/
+.entry h3 {
+	text-decoration: none !important;
+	border-style: none !important;
+}
+
+/** Cabeçalho >> .entry-title **/
+.entry-title {
+	border-bottom-width: 0 !important;
+}
+
+/** Cabeçalho >> .lae-post-title a **/
+.lae-post-title a {
+	border-bottom-width: 0 !important;
+}
+
+/** Cabeçalho >> .elementor-698 **/
+.elementor-698 {
+	width: 100% !important;
+	position: fixed !important;
+	z-index: 1 !important;
+	display: block !important;
+}
+
+
+/*( Desktop grande )*/
+@media (min-width: 1200px) {
+
+	/*= Cabeçalho ================ */
+
+	/** Cabeçalho >> .entry-title **/
+	.entry-title {
+	
+}
+
+
+}
+
+
+/*( Celular )*/
+@media (max-width: 480px) {
+
+	/*= Cabeçalho ================ */
+
+	/** Cabeçalho >> .elementor-698 **/
+	.elementor-698 {
+	
+}
+
+
+}
+
